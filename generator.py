@@ -12,7 +12,7 @@ def main():
         a=random.choice(flavours)
         b=random.choice(food)
         print("\n\n")
-        print("{}{}".format(a,b),file=sys.stder)
+        print("{}{}".format(a,b))
         print("\n\n")
 
         try_again = input("\n\nTry again? (Press Enter else Q to quit)\n ")
