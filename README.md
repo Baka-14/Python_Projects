@@ -10,10 +10,10 @@ A CLI interfaced random food name generator game made with the help of list comp
 The above picture shows the most number of words spoken in a speech 
 
 
-3.Made Fractal art and tiling with the help of recursion
+3.Made Fractal art with the help of recursion and turtle
 <img width="700" alt="Screenshot 2022-06-23 at 11 56 03 PM" src="https://user-images.githubusercontent.com/73593914/175369408-40ff2bf4-f81f-439b-85a3-16a2816a29cf.png">
 
 
 
-The above picture shows a fractal snowflake 
+The above picture shows a fractal snowflakes
 
