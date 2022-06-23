@@ -1,6 +1,8 @@
 # Python_Projects
-1.Random Food Name Generator 
+1.Random Food Name Generator  
+A CLI interfaced random food name generator game made with the help of list comprehension
 
+<img width="700" alt="Screenshot 2022-06-23 at 10 51 13 PM" src="https://user-images.githubusercontent.com/73593914/175358058-8b3a9f22-e349-4cd0-ac9c-79a78ae360e9.png">
 
 2.Word frequency counter using nltk 
 
